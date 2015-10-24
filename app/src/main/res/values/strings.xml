@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Class1.4TextFields</string>
+    <string name="email_hint">Please enter your email address</string>
+    <string-array name="countries_array">
+                <item>Afghanistan</item>
+                <item>Albania</item>
+                <item>Algeria</item>
+                <item>American Samoa</item>
+    </string-array>
+
+    <string-array name="phonetype_array">
+                <item>Afghanistan</item>
+                <item>Albania</item>
+                <item>Algeria</item>
+                <item>American Samoa</item>
+    </string-array>
+
+    <string-array name="city_array">
+                <item>Seattle</item>
+                <item>Portland</item>
+                <item>Los Angeles</item>
+                <item>New York</item>
+                <item>Chicago</item>
+                <item>Dallas</item>
+                <item>San Francisco</item>
+                <item>San Diego</item>
+                <item>Phoenix</item>
+                <item>Boise</item>
+                <item>Denver</item>
+                <item>Omaha</item>
+                <item>St Louis</item>
+                <item>New Orleans</item>
+                <item>Houston</item>
+                <item>Salt Lake City</item>
+                <item>Philadelphia</item>
+                <item>Pittsburgh</item>
+                <item>Detroit</item>
+                <item>Atlanta</item>
+                <item>Boston</item>
+                <item>Washington DC</item>
+                <item>Miami</item>
+                <item>Buffalo</item>
+    </string-array>
+
+</resources>
